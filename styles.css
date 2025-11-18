@@ -1,0 +1,9 @@
+body {font-family: Arial; margin:0; color:#0a1a3c;}
+header {background:#0a1a3c; color:white; padding:20px;}
+nav ul {list-style:none; display:flex; gap:20px;}
+nav a {color:white; text-decoration:none;}
+h2 {color:#0a1a3c;}
+.hero {padding:40px;}
+.card {background:#e8efff; padding:20px; margin:20px 0; border-radius:10px;}
+.cert-img {width:100%; max-width:600px; display:block; margin-bottom:10px;}
+footer {background:#0a1a3c; color:white; text-align:center; padding:10px; margin-top:20px;}
